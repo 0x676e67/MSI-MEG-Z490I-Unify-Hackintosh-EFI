@@ -18,7 +18,6 @@
 | 内存     | Asgard 32GB 2x16GB DDR4 2666Mhz                 |
 | 硬盘     | WDS500G3X0C-00SJG0 512GB M.2 NVMe                  |
 | 显卡 | ASRock Radeon RX 5500 XT Challenger ITX 8G 1717MHz 8GHz GDDR6                            |
-| 声卡     | Realtek ALCS1220A (Layout 7)                    |
 | 板载网卡 | 英特尔® Wi-Fi 6 AX201 ( 板载 ) |
 | 显示器   | Q2490W1  |
 
