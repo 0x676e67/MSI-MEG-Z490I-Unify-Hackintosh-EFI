@@ -45,6 +45,9 @@
 - 4k@60显示器输出正常，内建识别，亮度及音量可通过 _MonitorControl_ 控制
 
 ---
+### IMAGES
+<img src="/images/nefetch.png"/>
+<img src="/images/wifi.jpg"/>
 
 ### 鸣谢
 https://github.com/2742280997/z490i-unify  
