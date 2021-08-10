@@ -46,7 +46,7 @@
 
 ---
 ### IMAGES
-<img src="/images/nefetch.png"/>
+<img src="/images/neofetch.png"/>
 <img src="/images/wifi.jpg"/>
 
 ### 鸣谢
