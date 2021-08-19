@@ -49,6 +49,7 @@
 - 4k@60显示器输出正常，内建识别，亮度及音量可通过 _MonitorControl_ 控制
 ### 一些细节
 - 如果使用核显，独显缓冲帧建议删除。
+- 替换EFI在终端记得执行:`sudo kextcache -i/`
 ---
 ### IMAGES
 <img src="/images/neofetch.png"/>
