@@ -1,4 +1,4 @@
-## i7 10700 + MSI-Z490I-Unify 核显 独显 Hackintosh EFI
+## i7 10700 + MSI-MEG-Z490I-Unify 核显 独显 Hackintosh EFI
 
 - 当前支持 -- BigSur 11.5.2(经测试可以使用Catalina，但需要自行更换网卡驱动等等)  & Monterey 12.0b4
 
