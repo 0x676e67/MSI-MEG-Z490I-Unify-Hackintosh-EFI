@@ -1,3 +1,9 @@
+[![OpenCore](https://img.shields.io/badge/OpenCore-0.7.1-yellowgreen)](https://github.com/acidanthera/OpenCorePkg/releases/tag/0.6.2)
+[![macOS](https://img.shields.io/badge/macOS-11.5.2-orange)](https://www.apple.com/macos/catalina/)
+[![MODEL](https://img.shields.io/badge/Model-Z490I-blue)](https://www.asus.com/Motherboards/ROG-STRIX-Z490-I-GAMING/)
+[![BIOS](https://img.shields.io/badge/BIOS-7C77v19-brightgreen)](#)
+
+
 ## i7 10700 + MSI-MEG-Z490I-Unify 核显 独显 Hackintosh EFI
 
 - 当前支持 -- BigSur 11.5.2(经测试可以使用Catalina，但需要自行更换网卡驱动等等)  & Monterey 12.0b4
