@@ -62,14 +62,4 @@
 <img src="/images/wifi.jpg"/>
 <img src="images/iShot2021-08-19 11.49.59.png"/>
 ### 鸣谢
-https://github.com/2742280997/z490i-unify  
-https://github.com/kingwood77/MSI-Z490i-Unify-Hackintosh  
-https://github.com/milkpeanut/MSI-Z490I-UNIFY-Hackintosh  
-https://github.com/kreactnative/EFI-z490-ace-10700k-bigSur  
-
-https://github.com/acidanthera/OpenCorePkg  
-https://gitee.com/btwise/OpenCore_NO_ACPI  
-
-https://github.com/OpenIntelWireless/itlwm  
-https://github.com/OpenIntelWireless/HeliPort  
 https://github.com/wjz304/Hackintosh-EFI-MSI-Z490i-Unify
