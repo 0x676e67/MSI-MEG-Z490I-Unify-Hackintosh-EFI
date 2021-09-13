@@ -61,5 +61,7 @@
 <img src="/images/neofetch.png"/>
 <img src="/images/wifi.jpg"/>
 <img src="images/iShot2021-08-19 11.49.59.png"/>
+
+
 ### 鸣谢
-https://github.com/wjz304/Hackintosh-EFI-MSI-Z490i-Unify
+> https://github.com/wjz304/Hackintosh-EFI-MSI-Z490i-Unify
