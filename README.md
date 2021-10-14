@@ -20,7 +20,7 @@
 | 电源 | 银欣SX700-G             |
 | CPU散热 | EK240             |
 | 主板型号 | MSI-Z490I-Unify             |
-| 处理器   | Intel Core i7 10700           |
+| 处理器   | Intel Core i9 10850K       |
 | 内存     | Asgard 32GB 2x16GB DDR4 2666Mhz                 |
 | 硬盘     | WDS500G3X0C-00SJG0 512GB M.2 NVMe                  |
 | 显卡 | ASRock Radeon RX 5500 XT Challenger ITX 8G 1717MHz 8GHz GDDR6                            |
