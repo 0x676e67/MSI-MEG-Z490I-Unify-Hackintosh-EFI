@@ -35,6 +35,7 @@
 2.Setting\高级\整合周边设备\网络协议栈       [允许]  
 3.OC\扩展内存预设技术(XMP)                   [Enabled]  
 4.OC\CPU Features\CFG Lock                   [Disabled]  
+> 懒得设置可以直接开启D.T.M设置（会关闭cnvi网卡，需要手动开启）
 
 
 ---
