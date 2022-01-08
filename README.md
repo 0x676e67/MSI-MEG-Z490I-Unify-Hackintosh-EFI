@@ -1,5 +1,5 @@
-[![OpenCore](https://img.shields.io/badge/OpenCore-0.7.1-yellowgreen)](https://github.com/zf1976/MSI-MEG-Z490I-Unify-Hackintosh-OC-EFI/releases/tag/OC-0.7.1)
-[![macOS](https://img.shields.io/badge/macOS-11.5.2-orange)](https://www.apple.com/macos/catalina/)
+[![OpenCore](https://img.shields.io/badge/OpenCore-0.7.6-yellowgreen)](https://github.com/zf1976/MSI-MEG-Z490I-Unify-Hackintosh-OC-EFI/releases/tag/OC-0.7.1)
+[![macOS](https://img.shields.io/badge/macOS-12.1-orange)](https://www.apple.com/macos/catalina/)
 [![MODEL](https://img.shields.io/badge/Model-Z490I-blue)](https://tw.msi.com/Motherboard/MEG-Z490I-UNIFY/)
 [![BIOS](https://img.shields.io/badge/BIOS-7C77v19-brightgreen)](#)
 
