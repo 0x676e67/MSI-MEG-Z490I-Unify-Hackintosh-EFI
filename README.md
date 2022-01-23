@@ -6,8 +6,10 @@
 
 ## i9 10850K + MSI-MEG-Z490I-Unify 核显 独显 Hackintosh EFI
 
-- 当前支持 -- 正式版Monterey 12.1，可以使用Catalina、BigSur，但需要自行更换蓝牙、网卡驱动等等(各大版本使用驱动不一样)
-
+> 当前支持，目前Wi-Fi等驱动只适配Monterey，使用另外两个版本系统需要自行更换蓝牙、网卡驱动等等(各大版本使用驱动不一样)
+- Catalina 10.15.x
+- BugSur 11.x
+- Monterey 12.1
 
 ---
 
