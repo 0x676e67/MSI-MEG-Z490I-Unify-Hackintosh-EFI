@@ -3,9 +3,10 @@
 [![MODEL](https://img.shields.io/badge/Model-Z490I-blue)](https://tw.msi.com/Motherboard/MEG-Z490I-UNIFY/)
 [![BIOS](https://img.shields.io/badge/BIOS-7C77v19-brightgreen)](#)
 
+<img src="/img/BD00B09E-EE51-49BF-AD26-4E10A52D512D.png"/>
 
 ## i9 10850K + MSI-MEG-Z490I-Unify 核显 独显 Hackintosh EFI
-<img src="/img/BD00B09E-EE51-49BF-AD26-4E10A52D512D.png"/>
+
 > Wi-Fi蓝牙驱动只适配最新版Monterey，使用另外两个版本系统需要自行更换蓝牙、网卡驱动等等(各大版本使用驱动不一样)
 - Catalina 10.15.x
 - BugSur 11.x
