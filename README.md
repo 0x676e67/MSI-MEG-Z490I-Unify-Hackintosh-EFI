@@ -64,4 +64,4 @@
 <img src="/img/wifi.jpg"/>
 <img src="/img/iShot2021-08-19 11.49.59.png"/>
 <img src="/img/4349CF6E4B0EF7688CDE0B94EB970764.jpg"/>
-
+<img src="/img/031093CB-E667-4E95-A5B0-276124B1670C.png"/>
