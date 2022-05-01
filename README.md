@@ -69,6 +69,8 @@
 ### IMAGES
 <img src="/img/wifi.jpg"/>
 <img src="/img/iShot2021-08-19 11.49.59.png"/>
-<img src="/img/4349CF6E4B0EF7688CDE0B94EB970764.jpg"/>
+<img src="/img/iShot_2022-05-01_22.16.37.png"/>
+<img src="/img/iShot_2022-05-01_22.19.02.png"/>
+<img src="/img/iShot_2022-05-01_22.19.51.png"/>
 <img src="/img/031093CB-E667-4E95-A5B0-276124B1670C.png"/>
 <img src="/img/7B4E3D81-0CE8-4BBD-A212-DE4E298646A1.png"/>
