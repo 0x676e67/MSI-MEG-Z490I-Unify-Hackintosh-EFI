@@ -415,7 +415,7 @@
 				<key>Comment</key>
 				<string>V1.1.0d12 | Realtek Ethernet LAN</string>
 				<key>Enabled</key>
-				<false/>
+				<true/>
 				<key>ExecutablePath</key>
 				<string>Contents/MacOS/LucyRTL8125Ethernet</string>
 				<key>MaxKernel</key>
