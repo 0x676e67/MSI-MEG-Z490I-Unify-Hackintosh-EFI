@@ -28,7 +28,7 @@
 | 硬盘     | WDS500G3X0C-00SJG0 512GB M.2 NVMe                  |
 | 显卡 | ASRock Radeon RX 5500 XT Challenger ITX 8G 1717MHz 8GHz GDDR6                            |
 | 板载网卡 | 英特尔® Wi-Fi 6 AX201 ( 板载 ) |
-| 显示器   | Q2490W1  |
+| 显示器   | PORPOISE 4K  |
 
 ---
 
