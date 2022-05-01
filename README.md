@@ -72,10 +72,5 @@
 <img src="/img/iShot_2022-05-01_22.16.37.png"/>
 <img src="/img/iShot_2022-05-01_22.19.02.png"/>
 <img src="/img/iShot_2022-05-01_22.19.51.png"/>
-<<<<<<< HEAD
 <img src="/img/7B4E3D81-0CE8-4BBD-A212-DE4E298646A1.png"/>
 <img src="/img/031093CB-E667-4E95-A5B0-276124B1670C.png"/>
-=======
-<img src="/img/031093CB-E667-4E95-A5B0-276124B1670C.png"/>
-<img src="/img/7B4E3D81-0CE8-4BBD-A212-DE4E298646A1.png"/>
->>>>>>> af84becfd0ae1f47442610f71a2fe79fae402f24
