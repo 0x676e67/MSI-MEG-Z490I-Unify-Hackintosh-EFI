@@ -66,6 +66,7 @@
 - 替换EFI后在终端记得执行:`sudo kextcache -i/`
 ---
 ### IMAGES
+<img src="/img/multi-core.png"/>
 <img src="/img/iShot_2022-05-01_22.29.15.png"/>
 <img src="/img/iShot2021-08-19 11.49.59.png"/>
 <img src="/img/iShot_2022-05-01_22.16.37.png"/>
