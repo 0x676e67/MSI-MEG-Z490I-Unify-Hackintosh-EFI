@@ -253,7 +253,7 @@
 				<key>framebuffer-patch-enable</key>
 				<data>AQAAAA==</data>
 				<key>model</key>
-				<string>Intel UHD Graphics 630</string>
+				<string>Intel UHD Graphics 630 (Desktop）</string>
 			</dict>
 		</dict>
 		<key>Delete</key>
