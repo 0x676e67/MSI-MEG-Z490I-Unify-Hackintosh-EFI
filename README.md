@@ -3,7 +3,7 @@
 [![MODEL](https://img.shields.io/badge/Model-Z490I-blue)](https://tw.msi.com/Motherboard/MEG-Z490I-UNIFY/)
 [![BIOS](https://img.shields.io/badge/BIOS-7C77v19-brightgreen)](#)
 
-<img src="/img/BD00B09E-EE51-49BF-AD26-4E10A52D512D.png"/>
+<img src="/img/about.png"/>
 
 ## i9 10850K + MSI-MEG-Z490I-Unify 核显 独显 Hackintosh EFI
 
