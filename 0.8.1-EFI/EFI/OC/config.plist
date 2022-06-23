@@ -253,7 +253,7 @@
 				<key>framebuffer-patch-enable</key>
 				<data>AQAAAA==</data>
 				<key>hda-gfx</key>
-				<data>AAsKDQ==</data>
+				<string>onboard-1</string>
 				<key>model</key>
 				<string>Intel UHD Graphics 630</string>
 			</dict>
