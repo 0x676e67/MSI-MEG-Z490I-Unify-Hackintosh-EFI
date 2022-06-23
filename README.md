@@ -63,6 +63,9 @@
 - 默认配置config.plist定制端口（除了主板上拓展C口）
 - 配置config-extend-typec.plist定制端口（除了主板上19pin，USB拓展），看自己喜好需要什么端口可以自行定制
 - 替换EFI后在终端记得执行:`sudo kextcache -i/`
+
+### 鸣谢
+https://github.com/huijiewei/ASRock-Z390m-ITX-ac-Opencore
 ---
 ### IMAGES
 <img src="/img/multi-core.png"/>
