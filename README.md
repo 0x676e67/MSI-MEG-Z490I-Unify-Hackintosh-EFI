@@ -39,7 +39,6 @@
 3.OC-扩展内存预设技术(XMP)                   [Enabled]  
 4.OC-CPU Features-CFG Lock                   [Disabled]
 > 懒得设置可以直接开启D.T.M设置（会关闭cnvi网卡，需要手动开启）
-> 如果可以，建议把`Intel C-State`关闭，提高系统运行稳定性
 
 ---
 
