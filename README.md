@@ -1,3 +1,4 @@
+[![LICENSE](https://img.shields.io/badge/license-WTFPL-blue.svg)](https://github.com/gngpp/vdns/blob/main/LICENSE)
 [![OpenCore](https://img.shields.io/badge/OpenCore-0.8.1-yellowgreen)](https://github.com/zf1976/MSI-MEG-Z490I-Unify-Hackintosh-OC-EFI/releases/tag/OC-0.7.1)
 [![macOS](https://img.shields.io/badge/macOS-12.4-orange)](https://www.apple.com/macos/catalina/)
 [![MODEL](https://img.shields.io/badge/Model-Z490I-blue)](https://tw.msi.com/Motherboard/MEG-Z490I-UNIFY/)
