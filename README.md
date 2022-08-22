@@ -1,6 +1,6 @@
 [![LICENSE](https://img.shields.io/badge/license-WTFPL-blue.svg)](https://github.com/gngpp/vdns/blob/main/LICENSE)
 [![OpenCore](https://img.shields.io/badge/OpenCore-0.8.1-yellowgreen)](https://github.com/zf1976/MSI-MEG-Z490I-Unify-Hackintosh-OC-EFI/releases/tag/OC-0.7.1)
-[![macOS](https://img.shields.io/badge/macOS-12.5-orange)](https://www.apple.com/macos/catalina/)
+[![macOS](https://img.shields.io/badge/macOS-12.5.1-orange)](https://www.apple.com/macos/catalina/)
 [![MODEL](https://img.shields.io/badge/Model-Z490I-blue)](https://tw.msi.com/Motherboard/MEG-Z490I-UNIFY/)
 [![BIOS](https://img.shields.io/badge/BIOS-7C77v19-brightgreen)](#)
 
@@ -11,7 +11,7 @@
 > Wi-Fi蓝牙驱动只适配最新版Monterey，使用另外两个版本系统需要自行更换蓝牙、网卡驱动等等(各大版本使用驱动不兼容)，支持OTA升级，建议使用镜像升级。
 - Catalina 10.15.x
 - BugSur 11.x
-- Monterey 12.5
+- Monterey 12.5.1
 
 ---
 
