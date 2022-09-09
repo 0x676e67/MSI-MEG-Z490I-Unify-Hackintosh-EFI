@@ -8,10 +8,11 @@
 
 ## i9 10850K + MSI-MEG-Z490I-Unify 核显 独显 Hackintosh EFI
 
-> Wi-Fi蓝牙驱动只适配最新版Monterey，使用另外两个版本系统需要自行更换蓝牙、网卡驱动等等(各大版本使用驱动不兼容)，支持OTA升级，建议使用镜像升级。
+> 支持OTA升级。
 - Catalina 10.15.x
 - BugSur 11.x
 - Monterey 12.5.1
+- Ventura 13(beta)
 
 ---
 
