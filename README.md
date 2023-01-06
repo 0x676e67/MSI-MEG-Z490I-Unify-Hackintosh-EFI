@@ -1,6 +1,6 @@
 [![LICENSE](https://img.shields.io/badge/license-WTFPL-blue.svg)](https://github.com/gngpp/vdns/blob/main/LICENSE)
-[![OpenCore](https://img.shields.io/badge/OpenCore-0.8.6-yellowgreen)](https://github.com/zf1976/MSI-MEG-Z490I-Unify-Hackintosh-OC-EFI/releases/tag/OC-0.7.1)
-[![macOS](https://img.shields.io/badge/macOS-12.6.1-orange)](https://www.apple.com/macos/catalina/)
+[![OpenCore](https://img.shields.io/badge/OpenCore-0.8.8-yellowgreen)](https://github.com/zf1976/MSI-MEG-Z490I-Unify-Hackintosh-OC-EFI/releases/tag/OC-0.7.1)
+[![macOS](https://img.shields.io/badge/macOS-12.6.2-orange)](https://www.apple.com/macos/catalina/)
 [![MODEL](https://img.shields.io/badge/Model-Z490I-blue)](https://tw.msi.com/Motherboard/MEG-Z490I-UNIFY/)
 [![BIOS](https://img.shields.io/badge/BIOS-7C77v19-brightgreen)](#)
 
