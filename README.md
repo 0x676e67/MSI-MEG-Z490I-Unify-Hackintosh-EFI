@@ -12,7 +12,7 @@
 - Catalina 10.15.x
 - BugSur 11.x
 - Monterey 12.5.1
-- Ventura 13
+- Ventura 13.1
 
 ---
 
