@@ -11,7 +11,7 @@
 > 支持OTA升级。
 - Catalina 10.15.x
 - BugSur 11.x
-- Monterey 12.5.1
+- Monterey 12.6.2
 - Ventura 13.1
 
 ---
